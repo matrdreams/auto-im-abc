@@ -1,0 +1,8 @@
+# 格式: BundleID = en (英文 ABC) | zh (简体拼音) | <完整 InputSourceID>
+# 不写等号默认切换为英文 (com.apple.keylayout.ABC)
+# 本文件支持实时热加载（基于文件 mtime 缓存），修改保存后立即生效，无需重启服务。
+
+com.apple.Terminal = en
+com.mitchellh.ghostty = en
+com.microsoft.VSCode = en
+com.tencent.xinWeChat = zh
